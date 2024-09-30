@@ -4,9 +4,6 @@
   "version": "0.0.4",
   "description": "Biblioteka komponentów HTTP dla Angular.js",
   "main": "dist/js/rbs-angular-http.js",
-  "publishConfig": {
-    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
-  },
   "private": false,
   "devDependencies": {
     "bower": "1.7.9",
@@ -65,10 +62,6 @@
   },
   "scripts": {
     "test": "gulp test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@bitbucket.org:programisci_eu/rbs-angular-http.git"
   },
   "keywords": [],
   "author": "programisci.eu",
