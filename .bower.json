@@ -24,12 +24,9 @@
     "angular-mocks": "1.5.5",
     "string": "3.3.1",
     "lodash": "4.11.2",
-    "rbs-angular-core": "git@bitbucket.org:programisci_eu/rbs-angular-core.git#master",
+    "rbs-angular-core": "https://github.com/johnny333/rbs-angular-core.git#main",
     "jasmine-promise-matchers": "2.0.2",
     "jasmine-object-matchers": "0.1.0"
-  },
-  "publishConfig": {
-    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
   },
   "resolutions": {
     "lodash": "4.11.2",
@@ -43,7 +40,5 @@
     "branch": "master",
     "commit": "3219a83d2b8f8a00ca8d737505d16aaa5affaf02"
   },
-  "_source": "git@bitbucket.org:programisci_eu/rbs-angular-http.git",
-  "_target": "master",
-  "_originalSource": "git@bitbucket.org:programisci_eu/rbs-angular-http.git"
+  "_target": "master"
 }
